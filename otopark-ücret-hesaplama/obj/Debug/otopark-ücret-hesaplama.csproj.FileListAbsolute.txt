@@ -1,0 +1,7 @@
+C:\Users\Serhat\Desktop\PT ODEV\otopark-ücret-hesaplama\bin\Debug\otopark-ücret-hesaplama.exe.config
+C:\Users\Serhat\Desktop\PT ODEV\otopark-ücret-hesaplama\bin\Debug\otopark-ücret-hesaplama.exe
+C:\Users\Serhat\Desktop\PT ODEV\otopark-ücret-hesaplama\bin\Debug\otopark-ücret-hesaplama.pdb
+C:\Users\Serhat\Desktop\PT ODEV\otopark-ücret-hesaplama\obj\Debug\otopark-ücret-hesaplama.csproj.AssemblyReference.cache
+C:\Users\Serhat\Desktop\PT ODEV\otopark-ücret-hesaplama\obj\Debug\otopark-ücret-hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\Serhat\Desktop\PT ODEV\otopark-ücret-hesaplama\obj\Debug\otopark-ücret-hesaplama.exe
+C:\Users\Serhat\Desktop\PT ODEV\otopark-ücret-hesaplama\obj\Debug\otopark-ücret-hesaplama.pdb
